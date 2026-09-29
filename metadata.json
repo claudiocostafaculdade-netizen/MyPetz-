@@ -1,0 +1,6 @@
+{
+  "name": "MyPetz",
+  "description": "Sistema completo de agendamento de banho e tosa com controle financeiro, cadastro de clientes, serviços, produtos e agenda diária.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
